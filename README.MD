@@ -1,6 +1,6 @@
 # Easy HSV-based Object Detection
 
-This tool was developed for use on FRC. As 0rbianta, I will be competing with the Cosmos Robot Works(Team 7742) team in 2022 First Robotic Competitions. In this study, I made a sample object detection project with color filtering. It's pretty easy. Maybe we can use deep learning-based object detection in the competition, who knows? If we choose this way, creating the dataset will be the hardest part of the work. Anyway. Enjoy the code. Feel free to contribute and test.
+This tool was developed for use on FRC. As 0rbianta, I will be competing with the Cosmos Robot Works(Team 7742) team in 2022 First Robotic Competition. In this study, I made a sample object detection project with color filtering. It's pretty easy. Maybe we can use deep learning-based object detection in the competition, who knows? If we choose this way, creating the dataset will be the hardest part of the work. Anyway. Enjoy the code. Feel free to contribute and test.
 
 </br>
 
@@ -21,6 +21,11 @@ This tool was developed for use on FRC. As 0rbianta, I will be competing with th
   <img src="readme_assets/d3.png" width="240" height="150" />
   <img src="readme_assets/o3.jpeg" width="240" height="150" /> 
 </p>
+
+# PoC available on YouTube
+
+<a href="https://www.youtube.com/watch?v=N3qOBOLogfQ" target="_blank"><img src="readme_assets/yt.png" alt="FRC color filtering and object detection YouTube"></a>
+
 
     MIT License
 
